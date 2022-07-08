@@ -34,6 +34,4 @@ Allows a user to dynamically create a webpage that displays employee information
 
 ## Questions
 ### if you have any questions, please don't hesitate to reach out to me at
-### Github: https://github.com/robcabobb
-### or
-### Email: robcabobb@gmail.com
+### Github: https://github.com/robbieevans1
